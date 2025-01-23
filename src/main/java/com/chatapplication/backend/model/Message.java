@@ -1,8 +1,6 @@
-package com.chatapplication.backend.controller.model;
+package com.chatapplication.backend.model;
 
 import lombok.*;
-
-import java.util.Date;
 
 @NoArgsConstructor
 @AllArgsConstructor
